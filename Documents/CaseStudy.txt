@@ -1,0 +1,42 @@
+..Problem Defination 
+-Contoso is multination Company.
+-which has their 12 offices all over world.
+-they required to build and host Website for all employees.
+-to access corporate customer accountong related information.
+-company wanted to build and host.
+-this information system in public cloud google cloud platform or AWS.
+
+..Functional Requirements:
+
+1. Validation of employees.
+2. Access of information to employees.
+3. Show the accounting information about customers.
+4. Gather the information.
+
+
+..Non functional requirements:
+1. Security
+2. Performance
+3. Availability of information for all the employees
+4. Maintaining load on website  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
